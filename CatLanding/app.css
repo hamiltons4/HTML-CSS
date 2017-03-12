@@ -1,0 +1,10 @@
+body {
+	background: url(jonas-vincent-2717.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+#content {
+	text-align: center;
+	padding-top: 25%;
+}
